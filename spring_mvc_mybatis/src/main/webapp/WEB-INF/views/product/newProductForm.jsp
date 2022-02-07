@@ -10,7 +10,7 @@
 		<script src="<c:url value='/js/prdNoCheck.js'/>"></script>
 	</head>
 	<body>
-		<h3>상풍 등록</h3>
+		<h3>상풍 등록</h3>branch test_ysh 수정함
 		
 		<form method="post" action="/mybatis/product/insertProduct">
 			<table>
